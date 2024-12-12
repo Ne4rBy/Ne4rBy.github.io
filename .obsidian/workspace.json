@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-21-analytics_writeup.md",
+                "file": "_tabs/tags.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "tags"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-21-analytics_writeup.md",
+                "file": "_posts/2024-12-11-basicpentesting_writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-11-basicpentesting_writeup"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-21-analytics_writeup.md",
+                "file": "_posts/2024-12-11-basicpentesting_writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-11-basicpentesting_writeup"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-21-analytics_writeup.md"
-              }
+                "file": "_posts/2024-12-11-basicpentesting_writeup.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-11-basicpentesting_writeup"
             }
           }
         ]
@@ -146,15 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e152929b929098f3",
+  "active": "16f850c09226f4d0",
   "lastOpenFiles": [
-    "_site/tags/docker/index.html",
-    "_site/tags/docker",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_tabs/about.md",
+    "_posts/2024-12-11-basicpentesting_writeup.md",
     "_posts/2024-05-23-devvortex_writeup.md",
     "_posts/2024-05-25-knife_writeup.md",
+    "_posts/2024-06-21-analytics_writeup.md",
+    "assets/img/BasicPentesting/BasicPwn.png",
+    "assets/img/BasicPentesting/BasicPentesting.png",
+    "assets/img/BasicPentesting/99c72676aab814b94e3bc350ba627b71.png",
+    "_posts/2024.md",
+    "assets/img/BasicPentesting",
+    "assets/img/New folder",
+    "_site/tags/docker/index.html",
+    "_site/tags/docker",
     "_site/tags/virtual-hosting/index.html",
     "_site/tags/virtual-hosting",
-    "_posts/2024-06-21-analytics_writeup.md",
     "_site/tags/metabase/index.html",
     "_site/tags/metabase",
     "_site/assets/img/Analytics/AnalyticsUserFlag.png",
@@ -166,13 +192,6 @@
     "_site/posts/analytics_writeup/index.html",
     "_site/posts/analytics_writeup",
     "_site/assets/img/Analytics/AnalyticsSubdomainPage.png",
-    "_site/assets/img/Analytics/AnalyticsPrincipalPage.png",
-    "_site/assets/img/Analytics/Analytics.png",
-    "_site/assets/img/Analytics",
-    "assets/img/Analytics/AnalyticsSubdomainPage.png",
-    "assets/img/Analytics",
-    "_tabs/about.md",
-    "_site/tags/php-8-1-0-dev/index.html",
     "().md",
     "_posts/2024-05-24-cozyhosting_writeup.md"
   ]
