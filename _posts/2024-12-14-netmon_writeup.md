@@ -3,17 +3,17 @@ layout: post
 title: HTB Netmon WriteUp
 date: 2024-12-14
 categories:
-  - TryHackMe
-  - TryHackMe-Linux
+  - HackTheBox
+  - HackTheBox-Windows
 tags:
   - CTF
   - OSCP
   - HackTheBox
   - Windows
-  - FTP-User-Allowed
   - PRTG-Exploitation
   - Psexec
   - Credentials-Leakage
+  - FTP-Anon-Allowed
 media_subpath: /assets/img/Netmon
 ---
 ![Desktop View](Netmon.png){: w="800"  h="400" }
@@ -23,7 +23,7 @@ media_subpath: /assets/img/Netmon
 # Netmon Skills
 
 
->Netmon is an easy Windows machine where we will use the following skills:
+>**Netmon** is an easy Windows machine where we will use the following skills:
 
 -  **Port Discovery**
 - **Web Tech's Enumeration**
