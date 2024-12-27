@@ -109,7 +109,7 @@ At first i run `whatweb`,  to seek for some versions and technologies used in th
 http://10.10.197.75 [200 OK] Apache[2.4.18], Country[RESERVED][ZZ], HTTPServer[Ubuntu Linux][Apache/2.4.18 (Ubuntu)], IP[10.10.197.75], Title[Apache2 Ubuntu Default Page: It works]
 ```
 
-Nothing fancy, so i will take a look inside the website, once inside ***http://***10.10.197.75***, we are in front of  a default Apache page:
+Nothing fancy, so i will take a look inside the website, once inside ***http://10.10.197.75***, we are in front of  a default Apache page:
 
 ![Desktop View](SimpleCTFMainPage.png)
 
@@ -209,7 +209,7 @@ Finished
 ===============================================================
 ```
 
-I found a directory named **simple**, inside, we found a CMS named **Made Simple:
+I found a directory named **simple**, inside, we found a CMS named **Made Simple***:
 
 ![Desktop View](SimpleCTFMainPage2.png)
 
