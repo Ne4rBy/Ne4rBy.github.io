@@ -4,7 +4,7 @@ title: THM Steel Mountain WriteUp
 date: 2024-12-27
 categories:
   - TryHackMe
-  - TryHackMe-Linux
+  - TryHackMe-Windows
 tags:
   - CTF
   - TryHackMe
