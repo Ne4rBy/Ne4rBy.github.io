@@ -12,6 +12,7 @@ tags:
   - Fuzzing
   - Bypassing-File-Upload
   - Abusing-GUID-Python
+  - OSCP
 media_subpath: /assets/img/RootMe
 ---
 ![Desktop View](Rootme.png){: w="400"  h="400" }
