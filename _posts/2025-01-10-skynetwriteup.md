@@ -302,7 +302,7 @@ Walterminator
 
 In the `log1.txt` we can see what looks like to be a potential password credentials.
 
-So i tried to brute force the `Samba` service with this wordlist but it didn't work either with user `miles` & `milesdyson`.
+So i tried to brute-force the `Samba` service with this wordlist but it didn't work either with user `miles` & `milesdyson`.
 
 ```bash
 ❯ hydra -l milesdyson -P ../content/log1.txt smb://10.10.201.231
