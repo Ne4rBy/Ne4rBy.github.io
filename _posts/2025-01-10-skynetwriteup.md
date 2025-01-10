@@ -715,7 +715,7 @@ bash-4.3# cat root.txt
 
 The **Skynet CTF** was a mix of approachable and challenging elements. While the exploitation phase was straightforward and enjoyable, the privilege escalation proved to be quite difficult for a beginner. However, tackling this unique Privesc method made the experience highly rewarding and a great opportunity to learn and grow.
 
-![Desktop View](SkynetPwn.png)
+![Desktop View](SKynetPwn.png)
 
 -- -
 **Thanks for reading, i’ll appreciate that you take a look to my other posts :)**
