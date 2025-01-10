@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-05-brooklynnineninewriteup.md",
+                "file": "_posts/2025-01-10-skynetwriteup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-05-brooklynnineninewriteup"
+              "title": "2025-01-10-skynetwriteup"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "php-re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,21 +164,24 @@
   },
   "active": "16f850c09226f4d0",
   "lastOpenFiles": [
+    "_posts/2025-01-04-rootmewriteup.md",
+    "_posts/2025-01-05-brooklynnineninewriteup.md",
+    "_posts/2025-01-10-skynetwriteup.md",
+    "assets/img/Skynet/SKynetPwn.png",
+    "assets/img/Skynet/SkynetMainPage3.png",
+    "assets/img/Skynet/SkynetMainPage2.png",
+    "assets/img/Skynet/SkynetMainPage.png",
+    "assets/img/Skynet/SkynetMailInbox.png",
+    "assets/img/Skynet/SkynetCMSLogin.png",
+    "assets/img/Skynet/Skynet.jpeg",
+    "assets/img/Skynet",
+    "assets/img/New folder",
     "assets/img/Brooklyn/BrooklynPwn.png",
     "assets/img/Brooklyn/BrooklynMainPage.png",
     "assets/img/Brooklyn/Brooklyn.jpeg",
     "assets/img/Brooklyn",
-    "assets/img/New folder",
-    "_posts/2025-01-04-rootmewriteup.md",
-    "_posts/2025-01-05-brooklynnineninewriteup.md",
     "_posts/2024-12-30-relevantwriteup.md",
     "_posts/2024-12-19-simplectf_writeup.md",
-    "assets/img/RootMe/Rootme.png",
-    "assets/img/RootMe/RootmeUploadDenied.png",
-    "assets/img/RootMe/RootmePwn.png",
-    "assets/img/RootMe/RootmeMainPage2.png",
-    "assets/img/RootMe/RootmeMainPage.png",
-    "assets/img/RootMe/RootmeBurp.png",
     "_posts/2024-05-23-devvortex_writeup.md",
     "RootmeMainPage2.md",
     "assets/img/RootMe",
@@ -188,9 +191,6 @@
     "_site/tags/smb-anon-allowed",
     "_site/tags/seimpersonate/index.html",
     "_site/tags/seimpersonate",
-    "_site/posts/relevantwriteup/index.html",
-    "_site/assets/img/Relevant/RelevantPwn.png",
-    "_site/assets/img/Relevant/RelevantMainPage.png",
     "_posts/2024-12-14-netmon_writeup.md",
     "_posts/2024-12-26-_steelmountainwriteup.md",
     "_posts/2024-12-11-basicpentesting_writeup.md",

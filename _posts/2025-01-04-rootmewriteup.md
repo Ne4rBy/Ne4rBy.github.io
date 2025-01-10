@@ -208,7 +208,7 @@ Make a `stty size` in your own shell to know the rows and columns.
 
 ## Shell as www-data
 
-Once with a full TTY we can take a look to the `user.txt` flag, but after checking the `/home` directory, both of the directories are empty, so i scanned the whole file system looking for a file named `user.txt`.
+Now that we own a full TTY we can take a look to the `user.txt` flag, but after checking the `/home` directory, both of the directories are empty, so i scanned the whole file system looking for a file named `user.txt`.
 
 ```bash
 www-data@rootme:/$ find -name user.txt 2>/dev/null
