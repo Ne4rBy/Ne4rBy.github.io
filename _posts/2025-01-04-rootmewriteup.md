@@ -11,7 +11,7 @@ tags:
   - Upload-File
   - Fuzzing
   - Bypassing-File-Upload
-  - Abusing-GUID-Python
+  - Abusing-SUID-Python
   - OSCP
 media_subpath: /assets/img/RootMe
 ---
@@ -28,7 +28,7 @@ media_subpath: /assets/img/RootMe
 -  **Web Fuzzing**
 -  **Web Tech's Enumeration**
 - **Bypassing File Extension Firewall**
-- **Abusing GUID Binary** 
+- **Abusing SUID Binary** 
 
 ---
 ## IP Address Enumeration
@@ -222,7 +222,7 @@ www-data@rootme:/$ cat /var/www/user.txt
 THM{**u_**t_a_***ll}
 ```
 
-Then i started testing common PrivEsc methods and when i looked for **GUID** binaries i found that the  `python` binary is flagged as **GUID**.
+Then i started testing common PrivEsc methods and when i looked for **SUID** binaries i found that the  `python` binary is flagged as **SUID**.
 
 ```bash
 www-data@rootme:/$ find -perm -4000 2>/dev/null                         

