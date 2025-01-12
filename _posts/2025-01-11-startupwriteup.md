@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THM StartupWriteUp
+title: THM Startup WriteUp
 date: 2025-01-11
 categories:
   - TryHackMe
@@ -16,7 +16,6 @@ tags:
   - FTP-HTTP-Interlinked
   - Cron-Job-Exploitation
   - Upload-File
-  - Upl
 media_subpath: /assets/img/Startup
 ---
 ![Desktop View](Startup.png){: w="400"  h="400" }
@@ -400,6 +399,8 @@ It worked, we now can access the `user.txt` flag.
 lennie@startup:~$ cat user.txt 
 THM{03ce******80ccbfb3******e46c0e79}
 ```
+
+## Shell as Lennie
 
 Checking **Lennie's** home directory, there is a folder named `scripts`, inside of it there are two files owned by root.
 

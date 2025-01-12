@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-11-startupwriteup.md",
+                "file": "_posts/2025-01-12-gamingserverwriteup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-11-startupwriteup"
+              "title": "2025-01-12-gamingserverwriteup"
             }
           }
         ]
@@ -164,6 +164,18 @@
   },
   "active": "16f850c09226f4d0",
   "lastOpenFiles": [
+    "_tabs/about.md",
+    "_posts/2025-01-11-startupwriteup.md",
+    "_posts/2025-01-12-gamingserverwriteup.md",
+    "assets/img/GamingServer/GamingServer.jpeg",
+    "assets/img/GamingServer/GamingUploadPage.png",
+    "assets/img/GamingServer/GamingSecretKey.png",
+    "assets/img/GamingServer/GamingPwn.png",
+    "assets/img/GamingServer/GamingMainSource.png",
+    "assets/img/GamingServer/GamingMainPage.png",
+    "assets/img/GamingServer",
+    "assets/img/New folder",
+    "_posts/2025-01-10-skynetwriteup.md",
     "assets/img/Startup/important.png",
     "assets/img/Startup/StartupWebIndexOf.png",
     "assets/img/Startup/StartupPwn.png",
@@ -171,17 +183,7 @@
     "_posts/2024-12-30-relevantwriteup.md",
     "_posts/2025-01-04-rootmewriteup.md",
     "_posts/2025-01-05-brooklynnineninewriteup.md",
-    "_posts/2025-01-10-skynetwriteup.md",
-    "_posts/2025-01-11-startupwriteup.md",
-    "assets/img/Startup/Startup.png",
     "assets/img/Startup",
-    "assets/img/New folder",
-    "assets/img/Skynet/SkynetPwn.png",
-    "assets/img/Skynet/SKynetPwn.png",
-    "assets/img/Skynet/SkynetMainPage3.png",
-    "assets/img/Skynet/SkynetMainPage2.png",
-    "assets/img/Skynet/SkynetMainPage.png",
-    "assets/img/Skynet/SkynetMailInbox.png",
     "assets/img/Skynet",
     "assets/img/Brooklyn",
     "_posts/2024-12-19-simplectf_writeup.md",
@@ -192,11 +194,9 @@
     "_site/tags/upload-file",
     "_site/tags/smb-anon-allowed/index.html",
     "_site/tags/smb-anon-allowed",
-    "_site/tags/seimpersonate/index.html",
     "_posts/2024-12-14-netmon_writeup.md",
     "_posts/2024-12-26-_steelmountainwriteup.md",
     "_posts/2024-12-11-basicpentesting_writeup.md",
-    "_tabs/about.md",
     "_posts/2024-05-25-knife_writeup.md",
     "_posts/2024-06-21-analytics_writeup.md",
     "_tabs/archives.md",
