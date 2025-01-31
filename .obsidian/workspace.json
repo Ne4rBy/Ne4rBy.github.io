@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2025-01-31-banditpart1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2025-01-31-banditpart1"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,9 +165,23 @@
   },
   "active": "16f850c09226f4d0",
   "lastOpenFiles": [
-    "_tabs/archives.md",
-    "_tabs/about.md",
+    "_site/tags/bashscripting/index.html",
+    "_site/tags/bashscripting",
+    "_site/tags/bash/index.html",
+    "_site/tags/bash",
+    "_site/tags/cryptography/index.html",
+    "_site/tags/cryptography",
+    "_site/tags/ssh/index.html",
+    "_site/tags/ssh",
     "_posts/2025-01-12-gamingserverwriteup.md",
+    "_posts/2025-01-31-banditpart1.md",
+    "_site/tags/bandit/index.html",
+    "_site/tags/bandit",
+    "_site/tags/overthewire/index.html",
+    "_site/assets/img/Bandit/Bandit.png",
+    "assets/img/Bandit/Bandit.png",
+    "_tabs/about.md",
+    "_tabs/archives.md",
     "_posts/2025-01-11-startupwriteup.md",
     "assets/img/GamingServer/GamingServer.jpeg",
     "assets/img/GamingServer/GamingUploadPage.png",
@@ -174,27 +189,15 @@
     "assets/img/GamingServer/GamingPwn.png",
     "assets/img/GamingServer/GamingMainSource.png",
     "assets/img/GamingServer/GamingMainPage.png",
-    "assets/img/GamingServer",
-    "assets/img/New folder",
     "_posts/2025-01-10-skynetwriteup.md",
     "assets/img/Startup/important.png",
     "assets/img/Startup/StartupWebIndexOf.png",
-    "assets/img/Startup/StartupPwn.png",
-    "assets/img/Startup/StartupMainPage.png",
     "_posts/2024-12-30-relevantwriteup.md",
     "_posts/2025-01-04-rootmewriteup.md",
     "_posts/2025-01-05-brooklynnineninewriteup.md",
-    "assets/img/Startup",
-    "assets/img/Skynet",
-    "assets/img/Brooklyn",
     "_posts/2024-12-19-simplectf_writeup.md",
     "_posts/2024-05-23-devvortex_writeup.md",
     "RootmeMainPage2.md",
-    "assets/img/RootMe",
-    "_site/tags/upload-file/index.html",
-    "_site/tags/upload-file",
-    "_site/tags/smb-anon-allowed/index.html",
-    "_site/tags/smb-anon-allowed",
     "_posts/2024-12-14-netmon_writeup.md",
     "_posts/2024-12-26-_steelmountainwriteup.md",
     "_posts/2024-12-11-basicpentesting_writeup.md",
