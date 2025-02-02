@@ -28,7 +28,7 @@ My current focus is on sharpening my penetration testing skills and contributing
 
 ## 🎯 Let's Connect!
 
-Feel free to explore my work, check out my **CTF writeups** on platforms like **TryHackMe** and **Hack The Box**, and connect with me via [LinkedIn](#) or [Twitter](#).
+Feel free to explore my work, check out my **CTF writeups** on platforms like **TryHackMe** and **Hack The Box**, and connect with me via [LinkedIn](https://www.linkedin.com/in/samuel-laveau-1930972a3/).
 
 > *"Curiosity is not my crime; it's my strength. It drives me to explore, to question, and to create in a world of infinite possibilities."*
 

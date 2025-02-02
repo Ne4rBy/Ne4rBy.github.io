@@ -19,7 +19,7 @@ media_subpath: /assets/img/Bandit
 ---
 ![Desktop View](Bandit.png){: w="400"  h="400" }
 
-Hey there! Today, we’re diving into the **Bandit** game from [OverTheWire](https://overthewire.org/wargames/bandit/). It’s a super cool wargame that’s all about learning the basics of the **Bash** language in a fun and interactive way. The game is made up of 34 levels, each one building on the skills you’ve learned before. Whether you’re just starting with Bash or brushing up on your skills, this is a great way to explore how to navigate, manipulate files, and handle some simple yet tricky challenges. Let’s get started and see how far we can go!
+Hey there! Today, we’re diving into the **Bandit** game from [OverTheWire](https://overthewire.org/wargames/bandit/). It’s a super cool wargame that’s all about learning the basics of the **Bash** language in a fun and interactive way. The game is made up of 32 levels, each one building on the skills you’ve learned before. Whether you’re just starting with Bash or brushing up on your skills, this is a great way to explore how to navigate, manipulate files, and handle some simple yet tricky challenges. Let’s get started and see how far we can go!
 
 ---
 
