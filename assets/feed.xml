@@ -1,0 +1,51 @@
+---
+layout: compress
+permalink: /feed.xml
+# Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
+---
+
+{% assign now = 'now' | date_to_xmlschema %}
+
+{% capture source %}
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>{{ site.url | append: site.baseurl }}</id>
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <updated>{{ site.time | default: now }}</updated>
+  <author>
+    <name>{{ site.social.name | xml_escape }}</name>
+    <uri>{{ site.url | append: site.baseurl }}</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="{{ page.url | absolute_url }}"/>
+  <link rel="alternate" type="text/html" hreflang="{{ site.alt_lang | default: site.lang | default: 'en' }}"
+    href="{{ site.url | append: site.baseurl }}"/>
+  <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
+  <rights> © {{ 'now' | date: '%Y' }} {{ site.social.name | xml_escape }} </rights>
+  <icon>{{ site.baseurl }}/assets/img/favicons/favicon.ico</icon>
+  <logo>{{ site.baseurl }}/assets/img/favicons/favicon-96x96.png</logo>
+
+{% for post in site.posts limit: 5 %}
+  {% assign post_absolute_url = post.url | absolute_url %}
+  <entry>
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="{{ post_absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
+    <id>{{ post_absolute_url }}</id>
+    <content type="html"><![CDATA[ {{ post.content }} ]]></content>
+    <author>
+      <name>{{ post.author | default: site.social.name | xml_escape }}</name>
+    </author>
+
+    {% if post.categories %}
+      {% for category in post.categories %}
+      <category term="{{ category | xml_escape }}" />
+      {% endfor %}
+    {% endif %}
+
+    <summary>{{ post.excerpt | xml_escape }}</summary>
+  </entry>
+{% endfor %}
+</feed>
+{% endcapture %}
+{{ source }}
