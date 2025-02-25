@@ -452,7 +452,7 @@ root@kenobi:/tmp# cat /root/root.txt
 
 The **Kenobi** machine provides a well-structured learning experience, focusing on fundamental enumeration techniques and privilege escalation. The exploitation phase is straightforward, requiring careful **NFS enumeration** to gain initial access. Privilege escalation, while not overly complex, is a great exercise in recognizing **SUID misconfigurations** and leveraging for root access. A solid machine that reinforces core skills and serves as an excellent stepping stone for more advanced challenges.
 
-![Desktop View](kenobiPwn.png)
+![Desktop View](KenobiPwn.png)
 
 -- -
 **Thanks for reading, i’ll appreciate that you take a look to my other posts :)**
