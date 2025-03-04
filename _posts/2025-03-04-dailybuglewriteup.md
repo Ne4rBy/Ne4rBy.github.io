@@ -147,7 +147,7 @@ After a while, we finally cracked the hash, so let's login with the valid creden
 
 Once inside we are in front of a **Joomla** dashboard.
 
-![Desktop View](DailyBugleDashboard.png)
+![Desktop View](DailyBugleDashBoard.png)
 
 Once inside the **Joomla** dashboard it's pretty easy to get RCE, we can upload a webshell doing the following steps: **Extensions ->  Templates -> Templates**.
 
