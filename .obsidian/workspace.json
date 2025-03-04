@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-03-gamezonewriteup.md",
+                "file": "_posts/2025-03-04-dailybuglewriteup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-03-gamezonewriteup"
+              "title": "2025-03-04-dailybuglewriteup"
             }
           }
         ]
@@ -165,23 +165,28 @@
   },
   "active": "0ed447aff04369c1",
   "lastOpenFiles": [
-    "assets/img/GameZone/GameZoneWebmin.png",
-    "assets/img/GameZone/GameZone.jpeg",
-    "assets/img/GameZone/GameZoneSQLI6.png",
-    "assets/img/GameZone/GameZoneSQLI5.png",
-    "assets/img/GameZone/GameZoneSQLI4.png",
-    "assets/img/GameZone/GameZoneSQLI3.png",
-    "assets/img/GameZone/GameZoneSQLI2.png",
-    "assets/img/GameZone/GameZoneSQLI1.png",
-    "assets/img/GameZone/GameZoneSearchBox.png",
-    "assets/img/GameZone/GameZonePwn.png",
-    "assets/img/GameZone/GameZoneDashboard.png",
-    "assets/img/GameZone",
+    "assets/img/DailyBugle/DailyBugleReverseShell.png",
+    "assets/img/DailyBugle/DailyBugleMainPage.png",
+    "assets/img/DailyBugle/DailyBuglePwn.png",
+    "assets/img/DailyBugle/DailyBugleLogin.png",
+    "assets/img/DailyBugle/DailyBugleJoomlaVersion.png",
+    "assets/img/DailyBugle/DailyBugleDashBoard.png",
+    "assets/img/DailyBugle/DailyBugle.png",
+    "assets/img/DailyBugle",
+    "assets/img/Daily Bugle/DailyBugle.png",
+    "assets/img/Daily Bugle/DailyBugleDashBoard.png",
+    "assets/img/Daily Bugle/DailyBugleJoomlaVersion.png",
+    "assets/img/Daily Bugle/DailyBugleLogin.png",
+    "assets/img/Daily Bugle",
+    "assets/img/Daily Bulge",
     "assets/img/New folder",
-    "GameZoneSearchBox.md",
+    "_posts/2024-05-25-knife_writeup.md",
+    "_posts/2025-03-04-dailybuglewriteup.md",
     "_posts/2025-03-03-gamezonewriteup.md",
-    "_posts/2025-02-26-alfredwriteup.md",
     "_posts/2025-01-10-skynetwriteup.md",
+    "assets/img/GameZone",
+    "GameZoneSearchBox.md",
+    "_posts/2025-02-26-alfredwriteup.md",
     "assets/img/Alfred",
     "_posts/2025-01-05-brooklynnineninewriteup.md",
     "_posts/2025-02-25-kenobiwriteup.md",
@@ -189,9 +194,6 @@
     "_site/tags/smb-enumeration",
     "_site/tags/samba/index.html",
     "_site/tags/samba",
-    "_site/tags/kenobi/index.html",
-    "_site/tags/kenobi",
-    "_site/posts/kenobiwriteup/index.html",
     "_tabs/about.md",
     "_posts/2025-02-3-banditpart2.md",
     "_posts/2025-01-31-banditpart1.md",
@@ -206,10 +208,8 @@
     "_posts/2024-12-14-netmon_writeup.md",
     "_posts/2024-12-26-_steelmountainwriteup.md",
     "_posts/2024-12-11-basicpentesting_writeup.md",
-    "_posts/2024-05-25-knife_writeup.md",
     "_posts/2024-06-21-analytics_writeup.md",
     "_tabs/tags.md",
-    "_tabs/categories.md",
-    "_posts/2024.md"
+    "_tabs/categories.md"
   ]
 }
