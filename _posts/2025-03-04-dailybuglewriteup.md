@@ -157,7 +157,7 @@ You can download the reverse shell here: [https://github.com/pentestmonkey/php-r
 
 ![Desktop View](DailyBugleReverseShell.png)
 
-Once modified, click the button **Save**, then we just have to set a `netcat` listener and access the following URL: [http://10.10.246.66](http://10.10.246.66).
+Once modified, click the button **Save**, then we just have to set a `netcat` listener and access the following URL: ***http://10.10.246.66***.
 
 ```bash
 ❯ nc -nvlp 443
