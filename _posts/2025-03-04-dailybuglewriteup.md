@@ -25,7 +25,7 @@ media_subpath: /assets/img/DailyBugle
 # Daily Bugle Skills
 
 
->**Daily Bugle** is an hard Linux machine where we will use the following skills:
+>**Daily Bugle** is a hard Linux machine where we will use the following skills:
 
 - **Port Discovery**
 - **Web Application Enumeration**
@@ -267,7 +267,7 @@ Once as user `jjameson` we can read the `user.txt` flag at `/home/jjameson/user.
 
 ```bash
 [jjameson@dailybugle ~]$ cat /home/jjameson/user.txt 
-27a260fe3cba712cfdedb1c86d80442e
+27a******cba712cfd******6d80442e
 ```
 
 Checking again some **PrivEsc** ways, i found that we can execute the `yum` binary as `root`.
